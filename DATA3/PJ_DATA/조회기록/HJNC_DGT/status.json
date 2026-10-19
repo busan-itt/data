@@ -1,0 +1,21 @@
+{
+  "status": "completed",
+  "started_at": "2026-10-17T23:37:20.867800",
+  "completed_ids": 46457,
+  "updated_at": "2026-10-17T23:48:18.409975",
+  "total_ids": 46457,
+  "hjnc_code_warning": "T/P/Z/S are source marks; meanings not confirmed",
+  "error_ids": 0,
+  "live_records": 58253,
+  "elapsed_seconds": 597,
+  "output": "C:\\work\\DATA\\PJ_DATA\\hjnc_lookup.csv",
+  "output_rows": 47162,
+  "matched_unique": 40880,
+  "single_candidate_same_truck_unique": 38623,
+  "judgments": {
+    "시간순서·차량 일치 / 물리 터미널 확인 필요": 38623,
+    "조건 내 도로 반출입 연결 미확인": 5577,
+    "시간순서 일치 후보": 1598,
+    "복수 시간연결 후보 / 회차 검토 필요": 1364
+  }
+}

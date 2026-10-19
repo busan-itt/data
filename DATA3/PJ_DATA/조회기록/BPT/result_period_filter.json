@@ -1,0 +1,12 @@
+{
+  "period_start": "2024-11-01 00:00:00",
+  "period_end_exclusive": "2026-03-01 00:00:00",
+  "rule": "any_valid_time_in_period",
+  "counts": {
+    "no_times": 85849,
+    "outside_period": 26055,
+    "included": 18650
+  },
+  "result_rows": 18650,
+  "audit_rows": 130554
+}

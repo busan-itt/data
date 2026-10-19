@@ -1,0 +1,34 @@
+{
+  "status": "completed",
+  "supervisor_pid": 19308,
+  "started_at": "2026-10-14T11:50:47+09:00",
+  "month": "2025-01",
+  "input_count": 11199,
+  "expected_service_results": 11199,
+  "services": [
+    "BPT"
+  ],
+  "delay_seconds": [
+    0.5,
+    1.2
+  ],
+  "log_file": "C:\\work\\DATA\\crawl_state\\execution_bpt_2025_01.log",
+  "output_dir": "C:\\work\\DATA\\crawl_results",
+  "updated_at": "2026-10-14T15:54:59+09:00",
+  "counts": [
+    {
+      "service": "BPT",
+      "status": "FOUND",
+      "count": 3674
+    },
+    {
+      "service": "BPT",
+      "status": "NO_RESULT_RETURNED",
+      "count": 7525
+    }
+  ],
+  "attempt": 1,
+  "worker_pid": 884,
+  "exit_code": 0,
+  "finished_at": "2026-10-14T15:54:59+09:00"
+}

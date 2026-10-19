@@ -1,0 +1,42 @@
+{
+  "status": "stopped_for_bpt_priority",
+  "supervisor_pid": 2260,
+  "started_at": "2026-10-13T17:27:26+09:00",
+  "input_count": 130522,
+  "expected_service_results": 261044,
+  "services": [
+    "BCT",
+    "BPT"
+  ],
+  "delay_seconds": [
+    0.5,
+    1.2
+  ],
+  "log_file": "C:\\work\\DATA\\crawl_results\\execution_full.log",
+  "output_dir": "C:\\work\\DATA\\crawl_results",
+  "updated_at": "2026-10-13T17:31:11+09:00",
+  "counts": [
+    {
+      "service": "BCT",
+      "status": "FOUND",
+      "count": 7
+    },
+    {
+      "service": "BCT",
+      "status": "NO_RESULT_RETURNED",
+      "count": 24
+    },
+    {
+      "service": "BPT",
+      "status": "FOUND",
+      "count": 3
+    },
+    {
+      "service": "BPT",
+      "status": "NO_RESULT_RETURNED",
+      "count": 7
+    }
+  ],
+  "attempt": 1,
+  "worker_pid": 13372
+}

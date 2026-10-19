@@ -1,2 +1,7 @@
 DATA/*.csv filter=lfs diff=lfs merge=lfs -text
 DATA2/** filter=lfs diff=lfs merge=lfs -text
+DATA3/PJ_DATA/** -text
+DATA3/**/*.csv filter=lfs diff=lfs merge=lfs -text
+DATA3/**/*.sqlite3 filter=lfs diff=lfs merge=lfs -text
+DATA3/**/*.sqlite3-wal filter=lfs diff=lfs merge=lfs -text
+DATA3/**/*.sqlite3-shm filter=lfs diff=lfs merge=lfs -text

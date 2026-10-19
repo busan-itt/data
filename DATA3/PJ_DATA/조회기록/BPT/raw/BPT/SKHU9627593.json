@@ -1,0 +1,511 @@
+{
+  "tables": [
+    [
+      [
+        "선박 코드",
+        "CNVY",
+        "입항년도",
+        "2026",
+        "입항차",
+        "006"
+      ],
+      [
+        "상태",
+        "XDM",
+        "크기",
+        "45",
+        "규격",
+        "00 (DRY / HQ)"
+      ],
+      [
+        "선사코드",
+        "HAS",
+        "T/S",
+        "자부두",
+        "무게",
+        "4 ton"
+      ],
+      [
+        "냉동온도",
+        "",
+        "UNNO",
+        "",
+        "IMDG",
+        ""
+      ],
+      [
+        "차량번호",
+        "",
+        "양하항",
+        "SHA CN",
+        "변경전 양하항",
+        "KRPUS"
+      ],
+      [
+        "봉인번호",
+        "",
+        "선적항",
+        "VST RU",
+        "변경전 선박코드",
+        ""
+      ],
+      [
+        "봉인번호2",
+        "",
+        "보세",
+        "일반",
+        "특수화물",
+        ""
+      ],
+      [
+        "X-Ray 검색",
+        "",
+        "부킹번호/DO번호",
+        "HASLR01260600032"
+      ],
+      [
+        "손상여부",
+        "",
+        "화물관리번호",
+        ""
+      ],
+      [
+        "장치위치",
+        "Not In Yard",
+        "선내위치",
+        "34-12-88"
+      ],
+      [
+        "양하일시",
+        "2026/06/08 08:01",
+        "반입일시",
+        ""
+      ],
+      [
+        "반출일시",
+        "",
+        "적하일시",
+        "2026/06/15 16:12"
+      ],
+      [
+        "접안일시",
+        "2026/06/14 04:00",
+        "출항일시",
+        "2026/06/16 04:00"
+      ],
+      [
+        "양하작업 종료일시",
+        "2026/06/15 14:40",
+        "본선작업 종료일시",
+        "2026/06/16 03:53"
+      ]
+    ],
+    [
+      [
+        "면허여부",
+        "미대상"
+      ]
+    ],
+    [
+      [
+        "항목",
+        "단위",
+        "담보",
+        "현수",
+        "대상",
+        "기납부",
+        "미납부",
+        "대상금액\n(공급가액)",
+        "기납부액\n(공급가액)",
+        "미납액\n(공급가액)",
+        "Free Day기간"
+      ],
+      [
+        "합계\n(부가세 포함)",
+        "0원"
+      ]
+    ],
+    [
+      [
+        "구분",
+        "일반     보세     통관       (냉동 요금 계산 : 입력시간기준)"
+      ],
+      [
+        "반출예정일시",
+        "2013\n2014\n2015\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n2025\n2026\n2027\n2028\n2029\n 년 \n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n 월 \n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n 일 \n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n시 분 \n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n분"
+      ]
+    ]
+  ],
+  "fields": [
+    {
+      "name": "",
+      "id": "",
+      "value": "프린트2"
+    },
+    {
+      "name": "v_bond_id",
+      "id": "",
+      "value": ""
+    },
+    {
+      "name": "v_bond_id",
+      "id": "",
+      "value": "B"
+    },
+    {
+      "name": "v_bond_id",
+      "id": "",
+      "value": "C"
+    },
+    {
+      "name": "chk_reef",
+      "id": "",
+      "value": "ok"
+    },
+    {
+      "name": "v_year",
+      "id": "",
+      "value": "2026"
+    },
+    {
+      "name": "v_month",
+      "id": "",
+      "value": "10"
+    },
+    {
+      "name": "v_day",
+      "id": "",
+      "value": "15"
+    },
+    {
+      "name": "v_hour",
+      "id": "",
+      "value": "0"
+    },
+    {
+      "name": "v_minute",
+      "id": "",
+      "value": "23"
+    },
+    {
+      "name": "",
+      "id": "",
+      "value": "계산하기"
+    }
+  ],
+  "text": "프린트 \nSKHU9627593 ( DUP : 42 / 터미널 구분 : 신선대 )컨테이너 기본 정보\n선박 코드\tCNVY\t입항년도\t2026\t입항차\t006\n상태\tXDM\t크기\t45\t규격\t00 (DRY / HQ)\n선사코드\tHAS\tT/S\t자부두\t무게\t4 ton\n냉동온도\t\tUNNO\t\tIMDG\t\n차량번호\t\t양하항\tSHA CN\t변경전 양하항\tKRPUS\n봉인번호\t\t선적항\tVST RU\t변경전 선박코드\t\n봉인번호2\t\t보세\t일반\t특수화물\t\nX-Ray 검색\t\t부킹번호/DO번호\tHASLR01260600032\n손상여부\t\t화물관리번호\t\n장치위치\tNot In Yard\t선내위치\t34-12-88\n양하일시\t2026/06/08 08:01\t반입일시\t\n반출일시\t\t적하일시\t2026/06/15 16:12\n접안일시\t2026/06/14 04:00\t출항일시\t2026/06/16 04:00\n양하작업 종료일시\t2026/06/15 14:40\t본선작업 종료일시\t2026/06/16 03:53\n보세 면허 여부\n면허여부\t미대상\n현수 현황 조회 (반드시 DO 발행후 경과보관료가 정확하게 계산 가능합니다.)\n항목\t단위\t담보\t현수\t대상\t기납부\t미납부\t대상금액\n(공급가액)\t기납부액\n(공급가액)\t미납액\n(공급가액)\tFree Day기간\n합계\n(부가세 포함)\t0원\n\n경과보관료 계산 시 유의사항\n\n경과보관료 계산 시 유의사항\n미면허시에는 아래 구분란에서 \"보세\" 또는 \"통관\" 선택 후에 반출예정일을 확인하여 \"계산하기\" 버튼을 선택하십시요.\n경과보관료, 냉동전기료, 관련 세금계산서 발행 완료 후 정산한 일시보다 조기반출시 납부금액은 환불 불가\n검색기 셔틀료는 선사 라인운송사에 문의해주세요.\n구분\t일반     보세     통관       (냉동 요금 계산 : 입력시간기준)\n반출예정일시\t\n2013\n2014\n2015\n2016\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n2025\n2026\n2027\n2028\n2029\n 년 \n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n 월 \n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n 일 \n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n시 분 \n0\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n분 \n\n신규 현수정산 서비스 안내\n\n1. 신규 현수정산서비스 안내 확인\n① 현수정산서비스 안내 바로가기\n2. 컨테이너 현수(정산)서비스 이용 수납진행\n① 로그인 & 회원가입후 => 컨테이너 현수(정산)서비스 바로가기\n3. 납부완료(홈페이지에 합계금액이 \"0\"으로 표시됩니다.)\n사업자 정보 등록 및 변경은 메일( ACCOUNT@BPTC.CO.KR )로 진행\nBPT신선대 담당자 : TEL.051-620-0323\nBPT감만 담당자 : TEL.051-620-0325\n상담시간: 월~금(오전: 09:00~11:30 / 오후: 01:00~05:30 )",
+  "ship_options": [
+    {
+      "value": "CNVY-2026-006-SIN-42",
+      "text": "CNVY-2026-006-신선대",
+      "selected": true
+    },
+    {
+      "value": "SDTR-2026-016-SIN-41",
+      "text": "SDTR-2026-016-신선대",
+      "selected": false
+    },
+    {
+      "value": "SBVG-2026-008-SIN-40",
+      "text": "SBVG-2026-008-신선대",
+      "selected": false
+    },
+    {
+      "value": "HAJN-2026-017-SIN-39",
+      "text": "HAJN-2026-017-신선대",
+      "selected": false
+    },
+    {
+      "value": "HPLK-2026-004-SIN-38",
+      "text": "HPLK-2026-004-신선대",
+      "selected": false
+    },
+    {
+      "value": "JKVY-2025-009-SIN-37",
+      "text": "JKVY-2025-009-신선대",
+      "selected": false
+    },
+    {
+      "value": "HAKT-2025-025-SIN-36",
+      "text": "HAKT-2025-025-신선대",
+      "selected": false
+    },
+    {
+      "value": "HAKT-2025-022-SIN-35",
+      "text": "HAKT-2025-022-신선대",
+      "selected": false
+    },
+    {
+      "value": "HAYN-2025-017-SIN-34",
+      "text": "HAYN-2025-017-신선대",
+      "selected": false
+    },
+    {
+      "value": "QDTR-2025-019-SIN-33",
+      "text": "QDTR-2025-019-신선대",
+      "selected": false
+    },
+    {
+      "value": "SWTD-2025-011-SIN-32",
+      "text": "SWTD-2025-011-신선대",
+      "selected": false
+    },
+    {
+      "value": "SWAT-2025-015-SIN-31",
+      "text": "SWAT-2025-015-신선대",
+      "selected": false
+    },
+    {
+      "value": "PCTJ-2025-024-SIN-30",
+      "text": "PCTJ-2025-024-신선대",
+      "selected": false
+    },
+    {
+      "value": "JHDE-2025-012-SIN-29",
+      "text": "JHDE-2025-012-신선대",
+      "selected": false
+    },
+    {
+      "value": "SWAT-2024-011-SIN-28",
+      "text": "SWAT-2024-011-신선대",
+      "selected": false
+    },
+    {
+      "value": "NGTR-2024-036-SIN-27",
+      "text": "NGTR-2024-036-신선대",
+      "selected": false
+    },
+    {
+      "value": "HAHM-2023-024-SIN-26",
+      "text": "HAHM-2023-024-신선대",
+      "selected": false
+    },
+    {
+      "value": "EMTY-2023-001-SIN-25",
+      "text": "EMTY-2023-001-신선대",
+      "selected": false
+    },
+    {
+      "value": "HAHM-2023-021-SIN-24",
+      "text": "HAHM-2023-021-신선대",
+      "selected": false
+    },
+    {
+      "value": "SWTD-2023-012-SIN-23",
+      "text": "SWTD-2023-012-신선대",
+      "selected": false
+    },
+    {
+      "value": "SWSP-2023-012-SIN-22",
+      "text": "SWSP-2023-012-신선대",
+      "selected": false
+    },
+    {
+      "value": "SWSP-2023-003-SIN-21",
+      "text": "SWSP-2023-003-신선대",
+      "selected": false
+    },
+    {
+      "value": "SKAK-2023-018-SIN-20",
+      "text": "SKAK-2023-018-신선대",
+      "selected": false
+    },
+    {
+      "value": "SKAK-2023-016-SIN-19",
+      "text": "SKAK-2023-016-신선대",
+      "selected": false
+    },
+    {
+      "value": "MNVY-2023-005-GAM-20",
+      "text": "MNVY-2023-005-감만",
+      "selected": false
+    },
+    {
+      "value": "YKTD-2023-006-GAM-19",
+      "text": "YKTD-2023-006-감만",
+      "selected": false
+    },
+    {
+      "value": "SKVT-2023-001-GAM-18",
+      "text": "SKVT-2023-001-감만",
+      "selected": false
+    },
+    {
+      "value": "PCBJ-2022-021-GAM-17",
+      "text": "PCBJ-2022-021-감만",
+      "selected": false
+    },
+    {
+      "value": "PCBS-2022-040-SIN-18",
+      "text": "PCBS-2022-040-신선대",
+      "selected": false
+    },
+    {
+      "value": "PCBS-2022-034-SIN-17",
+      "text": "PCBS-2022-034-신선대",
+      "selected": false
+    },
+    {
+      "value": "KKMB-2022-005-SIN-16",
+      "text": "KKMB-2022-005-신선대",
+      "selected": false
+    },
+    {
+      "value": "SKQD-2022-003-GAM-16",
+      "text": "SKQD-2022-003-감만",
+      "selected": false
+    },
+    {
+      "value": "INSP-2021-014-SIN-15",
+      "text": "INSP-2021-014-신선대",
+      "selected": false
+    },
+    {
+      "value": "OCNA-2021-001-SIN-14",
+      "text": "OCNA-2021-001-신선대",
+      "selected": false
+    },
+    {
+      "value": "AKKA-2021-010-GAM-15",
+      "text": "AKKA-2021-010-감만",
+      "selected": false
+    },
+    {
+      "value": "ASSN-2021-010-SIN-13",
+      "text": "ASSN-2021-010-신선대",
+      "selected": false
+    },
+    {
+      "value": "XMSH-2021-002-SIN-12",
+      "text": "XMSH-2021-002-신선대",
+      "selected": false
+    },
+    {
+      "value": "EPNM-2021-001-GAM-14",
+      "text": "EPNM-2021-001-감만",
+      "selected": false
+    },
+    {
+      "value": "SWBC-2021-006-GAM-13",
+      "text": "SWBC-2021-006-감만",
+      "selected": false
+    },
+    {
+      "value": "CRDL-2021-002-GAM-12",
+      "text": "CRDL-2021-002-감만",
+      "selected": false
+    },
+    {
+      "value": "DJVS-2021-003-GAM-11",
+      "text": "DJVS-2021-003-감만",
+      "selected": false
+    },
+    {
+      "value": "FTTR-2020-032-GAM-10",
+      "text": "FTTR-2020-032-감만",
+      "selected": false
+    },
+    {
+      "value": "ASCO-2020-009-SIN-11",
+      "text": "ASCO-2020-009-신선대",
+      "selected": false
+    },
+    {
+      "value": "KSNC-2020-014-SIN-10",
+      "text": "KSNC-2020-014-신선대",
+      "selected": false
+    },
+    {
+      "value": "HHTK-2020-033-SIN-9",
+      "text": "HHTK-2020-033-신선대",
+      "selected": false
+    },
+    {
+      "value": "PCSG-2020-025-GAM-9",
+      "text": "PCSG-2020-025-감만",
+      "selected": false
+    },
+    {
+      "value": "HAHP-2020-010-SIN-8",
+      "text": "HAHP-2020-010-신선대",
+      "selected": false
+    },
+    {
+      "value": "PGUX-2020-005-GAM-8",
+      "text": "PGUX-2020-005-감만",
+      "selected": false
+    },
+    {
+      "value": "STMT-2020-001-GAM-7",
+      "text": "STMT-2020-001-감만",
+      "selected": false
+    },
+    {
+      "value": "DYHY-2020-008-SIN-7",
+      "text": "DYHY-2020-008-신선대",
+      "selected": false
+    },
+    {
+      "value": "SBTR-2019-009-SIN-6",
+      "text": "SBTR-2019-009-신선대",
+      "selected": false
+    },
+    {
+      "value": "NSSP-2019-018-SIN-5",
+      "text": "NSSP-2019-018-신선대",
+      "selected": false
+    },
+    {
+      "value": "ISBL-2019-007-GAM-6",
+      "text": "ISBL-2019-007-감만",
+      "selected": false
+    },
+    {
+      "value": "SKTJ-2019-026-GAM-5",
+      "text": "SKTJ-2019-026-감만",
+      "selected": false
+    },
+    {
+      "value": "SKTK-2019-019-GAM-4",
+      "text": "SKTK-2019-019-감만",
+      "selected": false
+    },
+    {
+      "value": "NGTR-2019-013-GAM-3",
+      "text": "NGTR-2019-013-감만",
+      "selected": false
+    },
+    {
+      "value": "OSVY-2018-023-GAM-2",
+      "text": "OSVY-2018-023-감만",
+      "selected": false
+    },
+    {
+      "value": "NSST-2018-010-SIN-4",
+      "text": "NSST-2018-010-신선대",
+      "selected": false
+    },
+    {
+      "value": "KHVS-2018-032-SIN-3",
+      "text": "KHVS-2018-032-신선대",
+      "selected": false
+    },
+    {
+      "value": "KHVS-2018-014-SIN-2",
+      "text": "KHVS-2018-014-신선대",
+      "selected": false
+    },
+    {
+      "value": "SKVL-2018-018-SIN-1",
+      "text": "SKVL-2018-018-신선대",
+      "selected": false
+    },
+    {
+      "value": "XMSH-2017-030-GAM-1",
+      "text": "XMSH-2017-030-감만",
+      "selected": false
+    }
+  ],
+  "dialogs": [],
+  "note": "현재 조회에서 기본 선택된 모선/차수 결과"
+}

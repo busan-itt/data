@@ -1,0 +1,57 @@
+{
+  "total_ids": 46457,
+  "by_code": {
+    "P": {
+      "observed_ids": 26144,
+      "time_candidate_ids": 21308,
+      "same_truck_candidate_ids": 20623,
+      "within_24h_same_truck_ids": 20612,
+      "no_connection_ids": 4836,
+      "multiple_candidate_ids": 477,
+      "error_ids": 0
+    },
+    "S": {
+      "observed_ids": 502,
+      "time_candidate_ids": 483,
+      "same_truck_candidate_ids": 483,
+      "within_24h_same_truck_ids": 483,
+      "multiple_candidate_ids": 4,
+      "no_connection_ids": 19,
+      "error_ids": 0
+    },
+    "T": {
+      "observed_ids": 608,
+      "no_connection_ids": 608,
+      "time_candidate_ids": 0,
+      "error_ids": 0
+    },
+    "Z": {
+      "observed_ids": 22738,
+      "time_candidate_ids": 19341,
+      "same_truck_candidate_ids": 18404,
+      "within_24h_same_truck_ids": 18390,
+      "no_connection_ids": 3397,
+      "multiple_candidate_ids": 430,
+      "error_ids": 0
+    }
+  },
+  "direction_unique_candidates": {
+    "DGT → HJNC": 19730,
+    "HJNC → DGT": 21404
+  },
+  "judgment_rows": {
+    "시간순서·차량 일치 / 물리 터미널 확인 필요": 38623,
+    "조건 내 도로 반출입 연결 미확인": 5577,
+    "시간순서 일치 후보": 1598,
+    "복수 시간연결 후보 / 회차 검토 필요": 1364
+  },
+  "more_than_24h_candidate_ids": 1831,
+  "cautions": [
+    "T/P/Z/S official semantics not established",
+    "Common-ID selection is conditioned on DGT TS classes; cannot estimate validity of every HJNC code globally",
+    "Temporal candidates may include container reuse or intermediate terminals",
+    "DGT overflow physical terminal not validated",
+    "2025 HJNC source only; boundary coverage incomplete",
+    "Counts by code and direction overlap; CSV rows are not unique containers or confirmed moves"
+  ]
+}

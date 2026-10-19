@@ -1,0 +1,3 @@
+DATA3/**/*.dpapi
+DATA3/**/kakao_credentials*
+DATA3/**/.env
