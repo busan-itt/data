@@ -1,0 +1,27 @@
+{
+  "status": "completed",
+  "total": 105279,
+  "updated_at": "2026-10-21T03:26:25+09:00",
+  "pid": 20356,
+  "phase": "basic_then_detail",
+  "completed": 105279,
+  "estimated_finished_at": "2026-10-21T03:26+09:00",
+  "last_export": {
+    "saved_at": "2026-10-21T03:26:25+09:00",
+    "rows": {
+      "OTHER": 128613,
+      "REVIEW": 2366,
+      "SELF": 203
+    },
+    "unique_ids": {
+      "SELF": 203,
+      "REVIEW": 2236,
+      "OTHER": 105279,
+      "ERROR": 0
+    },
+    "processed_unique": 105279,
+    "target_complete": true,
+    "verified": true
+  },
+  "finished_at": "2026-10-21T03:26:25+09:00"
+}

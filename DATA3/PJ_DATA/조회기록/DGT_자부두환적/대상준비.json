@@ -1,0 +1,41 @@
+{
+  "created_at": "2026-10-19T11:22:25+09:00",
+  "status": "prepared_not_running",
+  "inputs": [
+    {
+      "path": "C:\\work\\DATA\\PJ_DATA\\dgt.csv",
+      "bytes": 158005668,
+      "sha256": "a6799b1a2cfae28517a8ffa3238bb9a357b8b62c05e29a4d1ddb3918779568b1"
+    },
+    {
+      "path": "C:\\work\\DATA\\PJ_DATA\\조회기록\\DGT_명세_20261018\\targets.json",
+      "bytes": 10350228,
+      "sha256": "b68c2879c560d250e6c1fff28abc0d637f3c42726b1b6870113e2cdc05db47c2"
+    }
+  ],
+  "source_rows": 919084,
+  "source_unique": 564983,
+  "transshipment_classes": [
+    "TI",
+    "TL",
+    "TX"
+  ],
+  "transshipment_rows": 174165,
+  "transshipment_unique": 169773,
+  "excluded_unique": 64494,
+  "excluded_in_ts": 64494,
+  "target_unique": 105279,
+  "invalid_ts_rows": 0,
+  "class_rows": {
+    "TX": 82593,
+    "TI": 90861,
+    "TL": 711
+  },
+  "remaining_source_modes": {
+    "Truck→Vessel": 45510,
+    "Vessel→Truck": 61516,
+    "Truck→Truck": 434
+  },
+  "exclusion_rule": "기존 조회 HJNC/BPT targets.json 전체 번호 합집합. 오류·기간불일치도 제외.",
+  "scope_note": "원본 환적 표시 번호의 다른 방문 주기를 발견할 수 있음. 원본 도로 회차와 동일 회차라고 해석하지 않음."
+}
