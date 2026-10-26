@@ -1,0 +1,10 @@
+{
+  "원본행수": 186026,
+  "상태별행수": {
+    "no_pnc_record": 120,
+    "no_transfer_candidate": 171,
+    "ok": 9,
+    "pending": 185726
+  },
+  "전체조회완료": false
+}
