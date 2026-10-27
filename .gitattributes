@@ -5,3 +5,4 @@ DATA3/**/*.csv filter=lfs diff=lfs merge=lfs -text
 DATA3/**/*.sqlite3 filter=lfs diff=lfs merge=lfs -text
 DATA3/**/*.sqlite3-wal filter=lfs diff=lfs merge=lfs -text
 DATA3/**/*.sqlite3-shm filter=lfs diff=lfs merge=lfs -text
+DATA5/*.csv filter=lfs diff=lfs merge=lfs -text
