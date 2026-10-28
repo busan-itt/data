@@ -11,3 +11,5 @@ DATA/HJNC_2025_annual.txt filter=lfs diff=lfs merge=lfs -text
 "DATA2/설명.txt" -filter -diff -merge text
 DATA3/* filter=lfs diff=lfs merge=lfs -text
 "DATA3/설명.txt" -filter -diff -merge text
+DATA4/* filter=lfs diff=lfs merge=lfs -text
+"DATA4/설명.txt" -filter -diff -merge text

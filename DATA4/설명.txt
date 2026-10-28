@@ -1,0 +1,12 @@
+HJNC 자부두환적 확인데이터
+
+한진부산컨테이너터미널(HJNC)의 자부두 환적 여부를 확인하기 위한 원본 DETAIL 및 HISTORY 자료입니다.
+
+HJNC_2025_Z_cntr_detail.txt
+HJNC_2025_T_cntr_history (1).txt
+HJNC_2025_T_cntr_detail (1).txt
+HJNC_2025_S_cntr_history.txt
+HJNC_2025_S_cntr_detail.txt
+HJNC_2025_P_cntr_detail.txt
+
+제공된 원본 파일의 이름과 내용을 그대로 보존했습니다.
