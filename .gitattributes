@@ -13,3 +13,5 @@ DATA3/* filter=lfs diff=lfs merge=lfs -text
 "DATA3/설명.txt" -filter -diff -merge text
 DATA4/* filter=lfs diff=lfs merge=lfs -text
 "DATA4/설명.txt" -filter -diff -merge text
+DATA5/* filter=lfs diff=lfs merge=lfs -text
+"DATA5/설명.txt" -filter -diff -merge text
