@@ -8,3 +8,4 @@ DATA3/**/*.sqlite3-shm filter=lfs diff=lfs merge=lfs -text
 DATA5/*.csv filter=lfs diff=lfs merge=lfs -text
 DATA/DGT_2025_anmual.txt filter=lfs diff=lfs merge=lfs -text
 DATA/HJNC_2025_annual.txt filter=lfs diff=lfs merge=lfs -text
+"DATA2/설명.txt" -filter -diff -merge text
