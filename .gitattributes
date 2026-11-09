@@ -2,6 +2,6 @@
 "동원 자부두 환적 데이터/*.csv" filter=lfs diff=lfs merge=lfs -text
 "부두별 연간 컨테이너출입 목록/DGT_2025_anmual.txt" filter=lfs diff=lfs merge=lfs -text
 "부두별 연간 컨테이너출입 목록/HJNC_2025_annual.txt" filter=lfs diff=lfs merge=lfs -text
-DATA6/* filter=lfs diff=lfs merge=lfs -text
-"DATA6/설명.txt" -filter -diff -merge text
+"선석배정현황/*" filter=lfs diff=lfs merge=lfs -text
+"선석배정현황/설명.txt" -filter -diff -merge text
 "동원·한진 타부두 환적 데이터/*.csv" filter=lfs diff=lfs merge=lfs -text
