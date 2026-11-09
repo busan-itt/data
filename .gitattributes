@@ -1,18 +1,12 @@
 "부두별 연간 컨테이너출입 목록/*.csv" filter=lfs diff=lfs merge=lfs -text
 "동원 자부두 환적 데이터/*.csv" filter=lfs diff=lfs merge=lfs -text
-DATA3/PJ_DATA/** -text
-DATA3/**/*.csv filter=lfs diff=lfs merge=lfs -text
-DATA3/**/*.sqlite3 filter=lfs diff=lfs merge=lfs -text
-DATA3/**/*.sqlite3-wal filter=lfs diff=lfs merge=lfs -text
-DATA3/**/*.sqlite3-shm filter=lfs diff=lfs merge=lfs -text
 DATA5/*.csv filter=lfs diff=lfs merge=lfs -text
 "부두별 연간 컨테이너출입 목록/DGT_2025_anmual.txt" filter=lfs diff=lfs merge=lfs -text
 "부두별 연간 컨테이너출입 목록/HJNC_2025_annual.txt" filter=lfs diff=lfs merge=lfs -text
-DATA3/* filter=lfs diff=lfs merge=lfs -text
-"DATA3/설명.txt" -filter -diff -merge text
 DATA4/* filter=lfs diff=lfs merge=lfs -text
 "DATA4/설명.txt" -filter -diff -merge text
 DATA5/* filter=lfs diff=lfs merge=lfs -text
 "DATA5/설명.txt" -filter -diff -merge text
 DATA6/* filter=lfs diff=lfs merge=lfs -text
 "DATA6/설명.txt" -filter -diff -merge text
+"동원·한진 타부두 환적 데이터/*.csv" filter=lfs diff=lfs merge=lfs -text
